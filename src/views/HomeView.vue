@@ -2,6 +2,6 @@
 
 <template>
     <main>
-        <div>Halo</div>
+        <div></div>
     </main>
 </template>
